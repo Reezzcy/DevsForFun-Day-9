@@ -1,0 +1,21 @@
+body {
+    width: 60%;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+a {
+    color: grey;
+}
+
+img {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+code {
+    background-color: #252525;
+    color: red;
+}
